@@ -1,0 +1,57 @@
+[
+    {
+        "tokens": [
+            "Bridport",
+            "is",
+            "a",
+            "market",
+            "town",
+            "in",
+            "Dorset",
+            ",",
+            "England",
+            ",",
+            "situated",
+            "approximately",
+            "inland",
+            "from",
+            "the",
+            "English",
+            "Channel",
+            "near",
+            "the",
+            "confluence",
+            "of",
+            "the",
+            "small",
+            "River",
+            "Brit",
+            "and",
+            "its",
+            "tributary",
+            "the",
+            "Asker",
+            "."
+        ],
+        "h": [
+            "river brit",
+            "Q7337186",
+            [
+                [
+                    23,
+                    24
+                ]
+            ]
+        ],
+        "t": [
+            "asker",
+            "Q7337103",
+            [
+                [
+                    29
+                ]
+            ]
+        ],
+        "relation": "P974"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "tokens": [
+            "Labour",
+            "colleague",
+            ",",
+            "Stella",
+            "Creasy",
+            ",",
+            "for",
+            "example",
+            "said",
+            ":",
+            "“",
+            "It",
+            "’s",
+            "not",
+            "OK",
+            "."
+        ],
+        "h": [
+            "stella creasy",
+            "Q291502",
+            [
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "t": [
+            "labour",
+            "Q9630",
+            [
+                [
+                    0
+                ]
+            ]
+        ],
+        "relation": "P102",
+        "dp_path": [
+            [
+                3,
+                "Stella"
+            ],
+            [
+                1,
+                "colleague"
+            ],
+            [
+                0,
+                "Labour"
+            ],
+            [
+                4,
+                "Creasy"
+            ]
+        ]
+    }
+]

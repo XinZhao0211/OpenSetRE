@@ -1,0 +1,13 @@
+[
+    "org:stateorprovince_of_headquarters",
+    "per:country_of_death",
+    "per:religion",
+    "per:city_of_death",
+    "org:number_of_employees/members",
+    "per:parents",
+    "per:schools_attended",
+    "per:siblings",
+    "per:other_family",
+    "org:top_members/employees",
+    "no_relation"
+]

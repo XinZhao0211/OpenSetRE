@@ -1,0 +1,64 @@
+[
+    {
+        "tokens": [
+            "Raul",
+            "Castro",
+            ",",
+            "the",
+            "defense",
+            "chief",
+            "and",
+            "first",
+            "vice",
+            "president",
+            ",",
+            "has",
+            "been",
+            "serving",
+            "as",
+            "acting",
+            "president",
+            "since",
+            "mid-2006",
+            "."
+        ],
+        "h": [
+            null,
+            null,
+            [
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "t": [
+            null,
+            null,
+            [
+                [
+                    16
+                ]
+            ]
+        ],
+        "relation": "per:title",
+        "dp_path": [
+            [
+                0,
+                "Raul"
+            ],
+            [
+                13,
+                "serving"
+            ],
+            [
+                16,
+                "president"
+            ],
+            [
+                1,
+                "Castro"
+            ]
+        ]
+    }
+]

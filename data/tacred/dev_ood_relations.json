@@ -1,0 +1,12 @@
+[
+    "org:subsidiaries",
+    "per:city_of_birth",
+    "per:stateorprovince_of_birth",
+    "per:date_of_death",
+    "per:employee_of",
+    "org:member_of",
+    "per:origin",
+    "per:date_of_birth",
+    "per:countries_of_residence",
+    "org:founded_by"
+]

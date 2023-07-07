@@ -1,0 +1,23 @@
+[
+    "per:stateorprovince_of_death",
+    "org:shareholders",
+    "org:alternate_names",
+    "per:country_of_birth",
+    "org:city_of_headquarters",
+    "per:age",
+    "per:cities_of_residence",
+    "per:children",
+    "org:members",
+    "per:title",
+    "org:website",
+    "per:alternate_names",
+    "org:country_of_headquarters",
+    "per:stateorprovinces_of_residence",
+    "per:cause_of_death",
+    "org:political/religious_affiliation",
+    "org:parents",
+    "org:dissolved",
+    "per:spouse",
+    "per:charges",
+    "org:founded"
+]

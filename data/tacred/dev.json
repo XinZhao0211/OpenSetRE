@@ -1,0 +1,59 @@
+[
+    {
+        "tokens": [
+            "A",
+            "plane",
+            "carrying",
+            "the",
+            "body",
+            "of",
+            "Polish",
+            "first",
+            "lady",
+            "Maria",
+            "Kaczynska",
+            "landed",
+            "in",
+            "Warsaw",
+            "Tuesday",
+            "after",
+            "flying",
+            "from",
+            "Russia",
+            "where",
+            "she",
+            "died",
+            "in",
+            "an",
+            "air",
+            "crash",
+            "with",
+            "her",
+            "husband",
+            "and",
+            "94",
+            "others",
+            "."
+        ],
+        "h": [
+            null,
+            null,
+            [
+                [
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "t": [
+            null,
+            null,
+            [
+                [
+                    8
+                ]
+            ]
+        ],
+        "relation": "per:title"
+    }
+]

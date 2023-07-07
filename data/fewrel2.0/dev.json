@@ -1,0 +1,40 @@
+[
+    {
+        "tokens": [
+            "Justyna",
+            "is",
+            "a",
+            "Polish",
+            "feminine",
+            "given",
+            "name",
+            ",",
+            "a",
+            "variation",
+            "of",
+            "Justina",
+            "or",
+            "Justine",
+            "."
+        ],
+        "h": [
+            "justina",
+            "Q366659",
+            [
+                [
+                    11
+                ]
+            ]
+        ],
+        "t": [
+            "justine",
+            "Q395396",
+            [
+                [
+                    13
+                ]
+            ]
+        ],
+        "relation": "P460"
+    }
+]
